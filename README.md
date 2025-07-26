@@ -1,18 +1,18 @@
 ## Power BI Dashboards Portfolio
 
-# Power Bi Beginner Youtube Course - Luke Barousse
+# Power BI Beginner Youtube Course - Luke Barousse
 
 ## Introduction
 
-Following the course provided on youtube by Luke Barousse, I was able to get a solid understanding of Power Bi and it's key features. The course covered important tools such as **Power Query, M Language, DAX, graphical visualisations and much more!**
+Following the course provided on youtube by Luke Barousse, I was able to get a solid understanding of Power BI and it's key features. The course covered important tools such as **Power Query, M Language, DAX and much more!**
 
-Through following this course, I was able to build a couple of dashboards, both of which display information on the data job market in 2024. These included **metrics such as median pay, skills, country and education level.**
+Through following this course, I was able to build a couple of dashboards, both of which display information on the data job market in 2024. These included **metrics such as Median Salaries, Skills, Country and Education Level.**
 
 # Featured Dashboards
 
 ## Data Jobs Dashboard V1
 
-![Data Jobs DB GIF](images/Project1_Page1.PNG)
+![Data Jobs 1.0](/Images/Project1_Page1.PNG)
 
 **Key Power BI Skills**
 
@@ -43,7 +43,7 @@ Built robust relationships and a scalable schema to support complex filtering an
 Leveraged calculated measures and logic-based expressions to deliver real-time, role-specific insights.
 
 **🧼 ETL with Power Query:**
-Performed advanced data transformation, normalization, and cleansing to ensure high-quality visuals.
+Performed advanced data transformation, normalisation, and cleansing to ensure high-quality visuals.
 
 **📊 Professional Dashboard Design:**
 Designed a sleek, dark-themed layout with smart KPI cards and ranked visuals for readability and impact.
