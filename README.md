@@ -32,7 +32,7 @@ Through following this course, I was able to build a couple of dashboards, both 
 
 ## Data Jobs Dashboard V2
 
-![Data Jobs 2.0](images/Project2_Page1.jpg)
+![Dashboard 2 Page 1](/Images/Project2_Page1.jpg)
 
 **Key Power BI Skills**
 

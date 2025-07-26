@@ -2,9 +2,9 @@
 ## Data Dashboard 2.0 Overview
 ![Dashboard 2 Page 1](/Images/Project2_Page1.jpg)
 
-Data Dashboard 2.0 improves on the last iteration via clearer KPI metrics and a drill-through feature which filters against skills and job title. This allows the user to check for the **most common skills for certain data jobs, what they pay, and what these skills/jobs pay for on average (median)** - and much more! This is a much more streamlined version, while also providing more information.
+Data Dashboard 2.0 improves on the last iteration via clearer KPI metrics and a drill-through feature which filters against skills and job title. This allows the user to check for the **most common skills for certain data jobs, what they pay, and what these skills/jobs pay for on average (median)**. This is a much more streamlined version, while also providing more information.
 
-*Detailed metrics: Job count, Skills per job, median Yearly Salary and Median Hourly salary, Skill Popularity, Salaries across different job titles*
+*Detailed metrics: Job count, Skills per Job, Median Yearly Salary and Median Hourly salary, Skill Popularity, Salaries Across Different Job Titles*
 
 ## Skills Displayed (Detailed)
 
